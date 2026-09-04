@@ -10,15 +10,15 @@ The investigation focuses on identifying whether these files were present on the
 **Investigation Objectives**
 The investigation was designed to examine:
 
---Disk partitions, Windows environment, and system configuration
---NTFS MFT and USN Journal activity
---MP3 files and their cryptographic hashes
---Torrent files, torrent client activity, and peer information
---Thunderbird email artefacts and attachments
---Microsoft Edge and Internet Explorer browser history
---Tracker-list and torrent-upload activity
---Timeline correlations between file, email, browser, and P2P events
---Evidence linking the activity to the individuals involved
+1. Disk partitions, Windows environment, and system configuration
+2. NTFS MFT and USN Journal activity
+3. MP3 files and their cryptographic hashes
+4. Torrent files, torrent client activity, and peer information
+5. Thunderbird email artefacts and attachments
+6. Microsoft Edge and Internet Explorer browser history
+7. Tracker-list and torrent-upload activity
+8. Timeline correlations between file, email, browser, and P2P events
+9. Evidence linking the activity to the individuals involved
 
 
 **Evidence Access Limitation**
